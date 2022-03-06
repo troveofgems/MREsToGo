@@ -1,0 +1,791 @@
+{
+  "html_attributions": [],
+  "next_page_token": "some token",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.1413145,
+          "lng": -119.112776
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.1413145302915,
+            "lng": -119.1127761502
+          },
+          "southwest": {
+            "lat": 34.2119014697085,
+            "lng": -119.112376169708497
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Channel Islands Air National Guard Station",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 4,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": ""
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 36.75,
+          "lng": -119.686667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.7550259802915,
+            "lng": -119.686393180291502
+          },
+          "southwest": {
+            "lat": 36.7523280197085,
+            "lng": -119.683695219708498
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Fresno Air National Guard Base",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 2",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 33.9190,
+          "lng": -118.3816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 33.9120094802915,
+            "lng": -118.380740480291502
+          },
+          "southwest": {
+            "lat": 33.9193115197085,
+            "lng": -118.398042519708497
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Los Angeles Air Force Base",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3000
+        }
+      ],
+      "place_id": "some place id 3",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "rating": 4.3,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 39.1086142,
+          "lng": -121.3916708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 39.1007127302915,
+            "lng": -121.392468230291503
+          },
+          "southwest": {
+            "lat": 39.2080147697085,
+            "lng": -121.389770269708499
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Beale Air Force Base",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 4",
+      "rating": 4.6,
+      "reference": "",
+      "user_ratings_total": 152,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.911643,
+          "lng": -117.951273
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.2098682302915,
+            "lng": -117.393753530291503
+          },
+          "southwest": {
+            "lat": 34.2071702697085,
+            "lng": -117.391055569708498
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Edwards Air Force Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 5",
+      "rating": 4.2,
+      "reference": "",
+      "user_ratings_total": 151,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.2766349,
+          "lng": -121.9551205
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.2724264802915,
+            "lng": -121.404163080291502
+          },
+          "southwest": {
+            "lat": 38.2197285197085,
+            "lng": -121.401465119708497
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Travis Air Force Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 6",
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "",
+      "user_ratings_total": 766,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.7420267,
+          "lng": -120.5746291
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.21704323029149,
+            "lng": -120.400861330291503
+          },
+          "southwest": {
+            "lat": 34.2143452697085,
+            "lng": -120.398163369708498
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Vandenberg Air Force Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 7",
+      "rating": 4.2,
+      "reference": "",
+      "user_ratings_total": 122,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.2632422,
+          "lng": -116.6928506
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.2206672302915,
+            "lng": -116.690538980291503
+          },
+          "southwest": {
+            "lat": 35.2179692697085,
+            "lng": -116.397841019708499
+          }
+        }
+      },
+      "icon": "army",
+      "name": "Fort Irwin National Training Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 8",
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "",
+      "user_ratings_total": 156,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 36.6053401,
+          "lng": -121.9138573
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.2219723802915,
+            "lng": -121.403506180291502
+          },
+          "southwest": {
+            "lat": 36.2192744197085,
+            "lng": -121.400808219708497
+          }
+        }
+      },
+      "icon": "army",
+      "name": "Presidio of Monterey Army Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 9",
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "",
+      "user_ratings_total": 441,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 36.0102442,
+          "lng": -121.2472907
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.2203960302915,
+            "lng": -121.400800780291502
+          },
+          "southwest": {
+            "lat": 36.2176980697085,
+            "lng": -121.398102819708497
+          }
+        }
+      },
+      "icon": "army",
+      "name": "Fort Hunter Liggett",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 10",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 4,
+      "rating": 4.7,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "user_ratings_total": 152,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7816564,
+          "lng": -122.2516166
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.2154825302915,
+            "lng": -122.410900480291502
+          },
+          "southwest": {
+            "lat": 37.2127845697085,
+            "lng": -122.408202519708498
+          }
+        }
+      },
+      "icon": "coastGuard",
+      "name": "Integrated Support Command Alameda Coast Guard Base",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3139,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 6153
+        }
+      ],
+      "place_id": "some place id 11",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "user_ratings_total": 689,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.2548156,
+          "lng": -122.7985056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.2201378802915,
+            "lng": -122.396247430291502
+          },
+          "southwest": {
+            "lat": 38.2174399197085,
+            "lng": -122.393549469708498
+          }
+        }
+      },
+      "icon": "coastGuard",
+      "name": "Training Center Petaluma Coast Guard Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3024
+        }
+      ],
+      "place_id": "some place id 12",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "military-base"
+      ],
+      "user_ratings_total": 854,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.8757909,
+          "lng": -116.9565802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.2281167302915,
+            "lng": -116.407858080291502
+          },
+          "southwest": {
+            "lat": 34.2254187697085,
+            "lng": -116.405160119708498
+          }
+        }
+      },
+      "icon": "marineCorps",
+      "name": "Marine Corp Logistics Base Barstow",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 639,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 1136
+        }
+      ],
+      "place_id": "some place id 13",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "",
+      "scope": "",
+      "types": ["marineCorps"],
+      "user_ratings_total": 316,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 33.2933192,
+          "lng": -117.4092099
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 33.2178396302915,
+            "lng": -117.410637980291503
+          },
+          "southwest": {
+            "lat": 33.2151416697085,
+            "lng": -117.407940019708498
+          }
+        }
+      },
+      "icon": "marineCorps",
+      "name": "Camp Pendleton Marine Corps Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 6000
+        }
+      ],
+      "place_id": "some place id 14",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 3,
+      "rating": 4.1,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "user_ratings_total": 1274,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 32.8753,
+          "lng": -117.1373
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.2218302802915,
+            "lng": -117.400721680291503
+          },
+          "southwest": {
+            "lat": 32.2191323197085,
+            "lng": -117.398023719708498
+          }
+        }
+      },
+      "icon": "marineCorps",
+      "name": "Marine Corps Air Station Miramar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 480
+        }
+      ],
+      "place_id": "some place id 15",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 4,
+      "rating": 4.4,
+      "reference": "",
+      "scope": "",
+      "types": ["military"],
+      "user_ratings_total": 311,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6552,
+          "lng": -117.6574
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.2142454302915,
+            "lng": -117.393706330291502
+          },
+          "southwest": {
+            "lat": 35.2115474697085,
+            "lng": -117.391008369708498
+          }
+        }
+      },
+      "icon": "navy",
+      "name": "Naval Air Weapons Station China Lake",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 683,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 1024
+        }
+      ],
+      "place_id": "some place id 16",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "rating": 4.9,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "user_ratings_total": 60,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 32.6717,
+          "lng": 117.1654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.2117151802915,
+            "lng": 117.403286930291502
+          },
+          "southwest": {
+            "lat": 32.2090172197085,
+            "lng": 117.400588969708497
+          }
+        }
+      },
+      "icon": "navy",
+      "name": "Naval Base Coronado",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1242,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2038
+        }
+      ],
+      "place_id": "some place id 17",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "military-base"
+      ],
+      "user_ratings_total": 335,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 36.3257,
+          "lng": -119.9470
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 36.2153003802915,
+            "lng": -119.408306030291503
+          },
+          "southwest": {
+            "lat": 36.2126024197085,
+            "lng": -119.405608069708498
+          }
+        }
+      },
+      "icon": "navy",
+      "name": "Naval Air Station Lemoore Navy Base",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 427,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 640
+        }
+      ],
+      "place_id": "some place id 18",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 4,
+      "rating": 4.7,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "user_ratings_total": 362,
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 32.6848,
+          "lng": -117.1300
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.22113493029149,
+            "lng": -117.403586499999999
+          },
+          "southwest": {
+            "lat": 32.2184369697085,
+            "lng": -117.399564900000001
+          }
+        }
+      },
+      "icon": "navy",
+      "name": "Naval Base San Diego",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1772,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2658
+        }
+      ],
+      "place_id": "some place id 19",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "user_ratings_total": 4311,
+      "vicinity": ""
+    }
+  ],
+  "status": "OK"
+}

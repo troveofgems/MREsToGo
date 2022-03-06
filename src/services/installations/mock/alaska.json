@@ -1,0 +1,160 @@
+{
+  "html_attributions": [],
+  "next_page_token": "some token",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 64.6580854,
+          "lng": -147.9593875
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 64.6580854,
+            "lng": -147.1127761502
+          },
+          "southwest": {
+            "lat": 64.2119014697085,
+            "lng": -147.112376169708497
+          }
+        }
+      },
+      "icon": "airForce",
+      "name": "Eielson Air Force Base",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 4,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": ""
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 63.85,
+          "lng": -145.9990226
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 63.7550259802915,
+            "lng": -145.686393180291502
+          },
+          "southwest": {
+            "lat": 63.7523280197085,
+            "lng": -145.683695219708498
+          }
+        }
+      },
+      "icon": "army",
+      "name": "Fort Greely",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 2",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 57.7684458,
+          "lng": -152.492514
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 57.67840058,
+            "lng": -152.380740480291502
+          },
+          "southwest": {
+            "lat": 57.9193115197085,
+            "lng": -152.398042519708497
+          }
+        }
+      },
+      "icon": "coastGuard",
+      "name": "ISC Kodiak Coast Guard Base",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3000
+        }
+      ],
+      "place_id": "some place id 3",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": ""
+      },
+      "rating": 4.3,
+      "reference": "",
+      "scope": "",
+      "types": ["military-base"],
+      "vicinity": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 64.2986142,
+          "lng": -149.1616708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 64.1007127302915,
+            "lng": -149.392468230291503
+          },
+          "southwest": {
+            "lat": 64.2080147697085,
+            "lng": -149.389770269708499
+          }
+        }
+      },
+      "icon": "spaceForce",
+      "name": "Clear Space Force Station",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 4",
+      "rating": 4.6,
+      "reference": "",
+      "user_ratings_total": 152,
+      "vicinity": ""
+    }
+  ],
+  "status": "OK"
+}
