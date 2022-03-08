@@ -12,6 +12,8 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { MilitaryBaseScreen } from "./src/features/installations/screens/military-base.screen";
 import { theme } from "./src/infrastructure/theme";
 
+import { installationsRequest } from "./src/services/installations/installations.context";
+
 import {
   useFonts as useOswald,
   Oswald_400Regular,

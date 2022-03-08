@@ -4,7 +4,7 @@ import { Searchbar } from "react-native-paper";
 import { MilitaryBaseInfoCard } from "../components/MilitaryBaseInfoCard/military-base-infocard";
 import { SafeArea, SearchArea, ListArea } from "./styles/military-base.style";
 
-import { listings } from "../../../data/dummy.json";
+import { listings } from "../../../services/mock/data/dummy.json";
 
 export const MilitaryBaseScreen = () => {
   const [searchTerm, setSearchTerm] = useState(""),
