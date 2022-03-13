@@ -26,6 +26,7 @@
         "open_now": true
       },
       "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/F-16C_86-270_18th_Aggressor_Squadron.jpg",
         {
           "height": 0,
           "html_attributions": [],
@@ -59,6 +60,7 @@
       "icon": "army",
       "name": "Fort Greely",
       "photos": [
+        "https://militarybases.com/wp-content/uploads/2010/08/fort-greely.jpg",
         {
           "height": 1536,
           "html_attributions": [],
@@ -100,6 +102,7 @@
         "open_now": false
       },
       "photos": [
+        "https://www.reidmiddleton.com/wp-content/uploads/2014/04/Blog-HeroImage-USCGKodiakStation.jpg",
         {
           "height": 2000,
           "html_attributions": [""],
@@ -142,6 +145,7 @@
         "open_now": false
       },
       "photos": [
+        "https://www.akbizmag.com/wp-content/uploads/2021/12/clear-radar-3.jpg",
         {
           "height": 0,
           "html_attributions": [],

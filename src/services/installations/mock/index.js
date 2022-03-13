@@ -3,7 +3,7 @@ import MOCK_CA from "./california.json";
 import MOCK_TX from "./texas.json";
 
 export const mocks = {
-  alaska: {
+  "66.160507,-153.369141": {
     lat: 66.160507,
     long: -153.369141,
     dms_lat: "66° 9' 37.8252\" N",
@@ -12,7 +12,7 @@ export const mocks = {
     utm_northing: 7337849.85,
     data: MOCK_AK,
   },
-  california: {
+  "36.778259,-119.417931": {
     lat: 36.778259,
     long: -119.417931,
     dms_lat: "36° 46' 41.7324\" N",
@@ -21,9 +21,9 @@ export const mocks = {
     utm_northing: 4073001.31,
     data: MOCK_CA,
   },
-  texas: {
-    lat: 31.0,
-    long: -100.0,
+  "31,-100": {
+    lat: 31,
+    long: -100,
     dms_lat: "31° 0' 0.0\" N",
     dms_long: "119° 0' 0.0\" W",
     utm_easting: 404531.65,
