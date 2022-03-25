@@ -12,6 +12,7 @@ export const locations = {
           location: {
             lat: 66.160507,
             lng: -153.369141,
+            fakedLatDelta: 20,
           },
           location_type: "APPROXIMATE",
           viewport: {
@@ -37,6 +38,7 @@ export const locations = {
           location: {
             lat: 36.778259,
             lng: -119.417931,
+            fakedLatDelta: 15,
           },
           location_type: "APPROXIMATE",
           viewport: {
@@ -62,6 +64,7 @@ export const locations = {
           location: {
             lat: 31,
             lng: -100,
+            fakedLatDelta: 30,
           },
           location_type: "APPROXIMATE",
           viewport: {

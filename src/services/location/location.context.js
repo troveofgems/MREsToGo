@@ -18,7 +18,10 @@ export const LocationContextProvider = ({ children }) => {
       .then((result) => {
         console.log("Processed Location By Search Term: ", result);
         setIsLoading(false);
-        setLocation(result.geometry.location);
+        setLocation({
+          ...result.geometry.location,
+          viewport: result.geometry,
+        });
       })
       .catch((err) => {
         console.log("error detected");

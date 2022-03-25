@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { ScrollView, Text, View } from "react-native";
+import { ScrollView, View } from "react-native";
 import { List, Avatar } from "react-native-paper";
 
 import { MilitaryBaseInfoCard } from "./military-base-infocard";
 
-import DropGate from "../../../../../assets/img/boom-gate-alert-outline.png";
-import Gate from "../../../../../assets/img/gate.png";
+import DropGate from "../../../../../../assets/img/boom-gate-alert-outline.png";
+import Gate from "../../../../../../assets/img/gate.png";
 
 export const InstallationInfoCard = ({ installationData }) => {
   const [servicesExpanded, setServicesExpanded] = useState(false),

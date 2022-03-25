@@ -1,10 +1,4 @@
-import React, {
-  useContext,
-  useState,
-  createContext,
-  useEffect,
-  useMemo,
-} from "react";
+import React, { useContext, useState, createContext, useEffect } from "react";
 import { installationsRequest, dataTransformer } from "./installations.service";
 import { LocationContext } from "../location/location.context";
 
@@ -34,7 +28,9 @@ export const InstallationsContextProvider = ({ children }) => {
   };
 
   useEffect(() => {
-    if (!location) return;
+    if (!location) {
+      return;
+    }
     console.log("Location change detected!!", location);
     retrieveInstallations(location);
   }, [location]);

@@ -1,8 +1,7 @@
 import React from "react";
-import { Card, Button } from "react-native-paper";
-import { Spacer } from "../../../../components/layout/spacer.component";
-
-import { Text } from "../../../../components/layout/text.component";
+import { Card } from "react-native-paper";
+import { Spacer } from "../../../../../infrastructure/layout/spacer.component";
+import { Text } from "../../../../../infrastructure/layout/text.component";
 import { useTheme } from "styled-components";
 import {
   LeftContent,
@@ -10,7 +9,7 @@ import {
   Address,
   StarRow,
 } from "./military-base-infocard.style";
-import { printStars } from "../../../../utils/card.utils";
+import { printStars } from "../../../../../utils/card.utils";
 
 export const MilitaryBaseInfoCard = ({ installationInfo = {} }) => {
   const {

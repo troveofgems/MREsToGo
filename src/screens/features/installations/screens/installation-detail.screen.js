@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Spacer } from "../../../components/layout/spacer.component";
+import { Spacer } from "../../../../infrastructure/layout/spacer.component";
 import { InstallationInfoCard } from "../components/MilitaryBaseInfoCard/installation-infocard";
 
 export const InstallationDetailScreen = ({ route }) => {
